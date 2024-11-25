@@ -120,10 +120,10 @@ address {
 }
 
 .footer__hr {
-  height: 0;
+  height: 2px;
   width: 100%;
-  opacity: 40%;
-  border: 1px solid var(--color-white);
+  background-color: var(--color-white);
+  opacity: 0.4;
 }
 
 .footer__contacts__list {
